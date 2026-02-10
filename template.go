@@ -48,3 +48,8 @@ func readArr(x ...int) (int, []int) {
 func print(x ...any) {
 	fmt.Fprintln(out, x...)
 }
+
+// NOTES
+//
+// When settling base cases, use
+// continue instead of return.
