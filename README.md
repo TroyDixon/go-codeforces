@@ -1,9 +1,3 @@
 # Codeforces in Go
 
-## public repository that will hold
-
-- main.go solution files
-- provided input files
-- generated output files
-
-## Time and Space Complexity Testing --> SOON
+## public repo that will hold poorly made solutions of problems A, B, and C of Div 2-4 contests.
